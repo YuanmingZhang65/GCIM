@@ -33,6 +33,6 @@ References
 
 4	Wen Yang-Jun, Zhang Ya-Wen, Zhang Jin, Feng Jian-Ying, Zhang Yuan-Ming*. The improved FASTmrEMMA and GCIM algorithms for genome-wide association and linkage studies in large mapping populations. The Crop Journal 2020, 8(5): 723-732.
 
-5	Zhou Ya-Hui, Li Guo, Zhang Yuan-Ming*. A compressed variance component mixed model framework for detecting small and linked QTL-by-environment interactions. Briefings in Bioinformatics 2021, 23(2), bbab596.
+5	Zhou Ya-Hui, Li Guo, Zhang Yuan-Ming*. A compressed variance component mixed model framework for detecting small and linked QTL-by-environment interactions. Briefings in Bioinformatics 2021, 23(2): bbab596.
 
-6	LiMei, Zhang Yuan-Ming*. 3vGCIM: a compressed variance component mixed model for detecting QTL-by-environment interactions in RIL population. Journal of Genetics and Genomics 2025, in revision.
+6	Li Mei, Zhang Yuan-Ming*. 3vGCIM: a compressed variance component mixed model for detecting QTL-by-environment interactions in RIL population. Journal of Genetics and Genomics 2025, in revision.
