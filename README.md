@@ -1,4 +1,4 @@
-# GCIM
+# GCIM: a software to detect QTL and QEI in RIL, DH, BC, and F2 populations.
 
 Within R environment, the QTL.gCIMapping v3.5 software can be installed as below. 
 First install the dependency packages:
