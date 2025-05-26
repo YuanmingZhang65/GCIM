@@ -24,6 +24,7 @@ QTL.gCIMapping(file="D:/Users/GCIM_Format_F2.csv",Population="F2",method="GCIM",
 QTL.gCIMapping(file="D:/Users/GCIM_Format_F2.csv",Population="F2",MultiEnv=TRUE,dir="D:/Users")
 
 References
+
 1	Wang Shi-Bo, Wen Yang-Jun, Ren Wen-Long, Ni Yuan-Li, Zhang Jin, Feng Jian-Ying, Zhang Yuan-Ming*. Mapping small-effect and linked quantitative trait loci for complex traits in backcross or DH populations via a multi-locus GWAS methodology. Scientific Reports 2016, 6: 29951.
 
 2	Wen Yang-Jun, Zhang Ya-Wen, Zhang Jin, Feng Jian-Ying, Jim M. Dunwell, Zhang Yuan-Ming*. An efficient multi-locus mixed model framework for the detection of small and linked QTLs in F2. Briefings in Bioinformatics 2019, 20(5): 1913-1924.
