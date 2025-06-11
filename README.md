@@ -35,4 +35,4 @@ References
 
 5	Zhou Ya-Hui, Li Guo, Zhang Yuan-Ming*. A compressed variance component mixed model framework for detecting small and linked QTL-by-environment interactions. Briefings in Bioinformatics 2022, 23(2): bbab596.
 
-6	Li Mei, Zhang Yuan-Ming*. 3vGCIM: a compressed variance component mixed model for detecting QTL-by-environment interactions in RIL population. Journal of Genetics and Genomics 2025, Accept.
+6	Li Mei, Zhang Yuan-Ming*. 3vGCIM: a compressed variance component mixed model for detecting QTL-by-environment interactions in RIL population. Journal of Genetics and Genomics 2025, online, doi:10.1016/j.jgg.2025.05.011.
